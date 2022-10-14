@@ -1,0 +1,6 @@
+.env
+venv
+discord.log
+test.py
+__pycache__
+db.db
